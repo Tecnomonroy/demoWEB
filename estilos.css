@@ -1,0 +1,36 @@
+* {margin:0px;}
+	body  {background-color:blue;}
+	font-family:	
+	#cabecera {
+		background-color:orange;
+		margin-botton:18px;
+		padding:30px;
+		}
+	#menu {
+		background-color:gray;
+		margin-botton:15px;
+		padding:10px;
+		}
+	#contenidos {
+		background-color:white;
+		margin:0px auto 0px auto;
+		padding:48px;
+		border:1px solidus #D46240;
+		border-radius:18px;
+		}
+	#piepagina {
+		background-color:gray;
+		color:green;
+		font-size: 14px;
+		margin-top:10px;
+		padding:28px 8px 20px 18px
+		}
+	.enlacesRecursos {
+		color:#2F906A;
+		}
+	a:hover {
+		color:black;
+		}
+	.enlacesRecursos:hover{
+		color:#152B3C;
+		}
